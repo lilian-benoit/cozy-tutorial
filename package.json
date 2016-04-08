@@ -1,0 +1,8 @@
+{
+  "name": "my-contact-tuto",
+  "cozy-type": "static",
+  "cozy-displayName": "My Contact Tuto",
+  "version": "1.0.0",
+  "description": "une description",
+  "icon-path": "main_icon.jpeg"
+}
